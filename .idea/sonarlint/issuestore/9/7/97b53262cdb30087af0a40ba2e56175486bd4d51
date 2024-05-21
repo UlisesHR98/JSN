@@ -1,0 +1,19 @@
+
+•python:S1192"RDefine a constant instead of duplicating this literal 'orders/index.html' 4 times.(¯ŒØõıÿÿÿÿJ$2c6dd2a2-621a-4360-b7e2-40e022ff6138
+œpython:S1192“"]Define a constant instead of duplicating this literal 'attachment; filename={title}' 4 times.(•ÌÄ¨J$6d541f84-ed00-4557-8044-6e4b0e46c587
+…python:S1192°"FDefine a constant instead of duplicating this literal '.xlsx' 3 times.(´âø©J$43b6b8c6-f2f7-48d5-8da1-73f13f17f094
+¤python:S117$"bRename this local variable "NameSearchFormSet" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯ÂğªúÿÿÿÿJ$3871194a-9d0a-459e-a62b-e4236cc7e585
+’python:S3776"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(°ÂîJ$f190786e-a9dc-4c43-b510-3e4717e6940c
+\python:S125&"Remove this commented out code.(˜ËÃJ$d771a8b6-73c4-4f0d-939a-f5b65f169d9c
+lpython:S1940A")Use the opposite operator ("!=") instead.(–„Ë¼ÿÿÿÿÿJ$bcb97fa6-d668-4aa7-b7bf-bfab58f91bef
+lpython:S1940B")Use the opposite operator ("!=") instead.(ü¡›¦úÿÿÿÿJ$3ce8f7d7-e2ad-4546-993b-e11702610b23
+gpython:S1940C")Use the opposite operator ("!=") instead.(–¾ŞèJ$0b4a1050-2c8e-4d30-8e40-c551558cb15d
+apython:S125`"Remove this commented out code.(ÖÅµùÿÿÿÿJ$36dea2f5-8fa5-4b26-b506-1b798e506f78
+rpython:S1172p"/Remove the unused function parameter "request".(ö»ÙıüÿÿÿÿJ$36495de3-6e1d-47aa-a59f-bed1b2abb4b2
+{python:S5754•"<Specify an exception class to catch or reraise the exception(§—ñºJ$94f524f3-11eb-45ba-b225-92a68a1049d4
+{python:S5754Ã"<Specify an exception class to catch or reraise the exception(§—ñºJ$9408018f-9b19-4bac-99fb-8974850c52a6
+python:S930ô"JRemove 1 unexpected arguments; '_pdf_view' expects 2 positional arguments.(±µûÿÿÿÿJ$e02176e0-7efc-4957-b91c-0aeef1860b72
+¥python:S117¨"bRename this local variable "NameSearchFormSet" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯ÂğªúÿÿÿÿJ$d56ae401-8d4d-4558-9a47-2e56a484938c
+bpython:S125Á"Remove this commented out code.(ÚÒ˜ÆşÿÿÿÿJ$d4b3fb67-da93-40ee-b570-f06db647da23
+‘python:S1854ú"RRemove this assignment to local variable 'debug_message'; the value is never used.(Øç•“J$e2d952d4-8d4d-428b-b1ee-4c14bce14f9b
+]python:S125Ã"Remove this commented out code.(ÈÅ•›J$cdca311a-3d32-4441-b1bf-00592014f351

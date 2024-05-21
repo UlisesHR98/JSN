@@ -1,0 +1,25 @@
+
+npython:S1192'"QDefine a constant instead of duplicating this literal 'Parsing complete' 3 times.(Ì½Ûšûÿÿÿÿ
+_python:S1192š"FDefine a constant instead of duplicating this literal '.xlsx' 3 times.(®Œ‡ñ
+Kpython:S1481"3Remove the unused local variable "pdf_page_offset".(À¥ÀÎ
+Rpython:S1481%"5Remove the unused local variable "extracted_aliases".(ªø½°ıÿÿÿÿ
+Qpython:S1481 "9Remove the unused local variable "report_searched_names".(ğÇœÓ
+;python:S125!"Remove this commented out code.(»Çßƒùÿÿÿÿ
+Ipython:S1481n",Remove the unused local variable "judgment".(ì‹¬ºûÿÿÿÿ
+Apython:S1481m")Remove the unused local variable "alias".(ÿÄ
+Kpython:S1940ö"-Use the opposite operator ("is not") instead.(¿·¶—úÿÿÿÿ
+7python:S125Â"Remove this commented out code.(²¹™®
+<python:S125İ"Remove this commented out code.(»™Åüÿÿÿÿ
+Upython:S5754å"<Specify an exception class to catch or reraise the exception(§—ñº
+Epython:S1481ş",Remove the unused local variable "filename".(âÕ“¨
+<python:S125¼"Remove this commented out code.(‚Ò˜‚üÿÿÿÿ
+Ipython:S1172ß"0Remove the unused function parameter "pdf_page".(›å‹®
+Jpython:S1481é"1Remove the unused local variable "judgment_type".(Å¬³˜
+]python:S6019ë"EFix this reluctant quantifier that will only ever match 1 repetition.(å°ƒH
+7python:S125í"Remove this commented out code.(€Í•¬
+>python:S1481"%Remove the unused local variable "e".(É†­Â
+rpython:S3776ı"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(Êğ¯“şÿÿÿÿ
+7python:S125’"Remove this commented out code.(ÄÈ†­
+Cpython:S5869ï"*Remove duplicates in this character class.(Í°¬’
+7python:S125Ş"Remove this commented out code.(±€ĞÓ
+<python:S125ö"Remove this commented out code.(ÿ­Êâşÿÿÿÿ

@@ -1,0 +1,22 @@
+
+python:S1192Û"JDefine a constant instead of duplicating this literal "[TRUSTEE]" 3 times.(‡¢å8Ù¢Œªø1J$c2d507e0-c5ea-4615-85fb-0ad17459d22e
+œpython:S1192Õ"QDefine a constant instead of duplicating this literal '[CLIENT_REF_NUM]' 3 times.(ÇĞóüÿÿÿÿ8Ú¢Œªø1J$8fd9e2cd-845d-4722-aac9-638ce78d3a42
+–python:S1192Ú"KDefine a constant instead of duplicating this literal "[ATTORNEY]" 6 times.(ûÒ¸Óıÿÿÿÿ8Ú¢Œªø1J$f68a7c8d-f3e7-4783-87be-30dedbdeedb1
+python:S1192Ù"IDefine a constant instead of duplicating this literal "[DEBTOR]" 3 times.(Õ³ˆ¸8Ú¢Œªø1J$d5a92aaf-b021-42e2-8267-58f54d4f32b8
+•python:S1192ù"JDefine a constant instead of duplicating this literal "[ADDRESS]" 3 times.(šç–«şÿÿÿÿ8Ú¢Œªø1J$4a59ea88-20b5-4744-9982-20a3dce12c0f
+zpython:S1172"0Remove the unused function parameter "document".(¾Ğúøÿÿÿÿ8Û¢Œªø1J$e215cff9-2739-417b-9a74-3a45536fd305
+zpython:S1172"0Remove the unused function parameter "document".(Ÿ˜¯´ûÿÿÿÿ8Û¢Œªø1J$6d7a651e-fea3-448c-a0fa-2d957ac462dd
+upython:S1172%"0Remove the unused function parameter "document".(ïØÅÒ8Û¢Œªø1J$3fed0f78-1162-4e6c-b59a-0bc81408a6ce
+upython:S1172/"0Remove the unused function parameter "document".(‰Ğ€8Û¢Œªø1J$b4998b8e-3eeb-4184-8bb5-825cf39f68d3
+™python:S3776/"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(‰Ğ€8Û¢Œªø1J$6588e6a7-ebad-4e51-a956-2d9dc0efeacc
+zpython:S1172;"0Remove the unused function parameter "document".(¸Çû«úÿÿÿÿ8Û¢Œªø1J$6e5463eb-87cb-4fb6-a706-07ffae70b410
+™python:S3776E"URefactor this function to reduce its Cognitive Complexity from 294 to the 15 allowed.(ËõL8Ü¢Œªø1J$eeaa55ee-7ba5-4ea9-af23-59e3f55ac1db
+hpython:S125`"Remove this commented out code.(÷Ûßûÿÿÿÿ8Ü¢Œªø1J$46f68a9e-e806-4803-a9d9-7a111a81cd70
+python:S3457à"EAdd replacement fields or use a normal string instead of an f-string.(¿’„˜ÿÿÿÿÿ8Ü¢Œªø1J$4860dd8c-c00b-42fb-9419-f71489a94d1e
+‹python:S3457†"EAdd replacement fields or use a normal string instead of an f-string.(Œ»Ö8Ü¢Œªø1J$936f0b15-e42f-4437-8116-b6269ccb484a
+python:S3457®"EAdd replacement fields or use a normal string instead of an f-string.(Í”Èªüÿÿÿÿ8Ü¢Œªø1J$a434b049-bf47-4578-8d44-4e8c024cf6b9
+qpython:S1481Ã"+Remove the unused local variable "parties".(ğÑí8İ¢Œªø1J$c2a53bc4-4d06-4090-b4b1-eadd47829db6
+‹python:S3457â"EAdd replacement fields or use a normal string instead of an f-string.(ß¤è±8İ¢Œªø1J$af860587-5c85-4c4f-8a5b-95ef48e1744d
+špython:S3776ä"URefactor this function to reduce its Cognitive Complexity from 100 to the 15 allowed.(ãÁú`8İ¢Œªø1J$1ba61a45-f46b-4156-8489-8802a2b29454
+python:S3457Æ"EAdd replacement fields or use a normal string instead of an f-string.(¬ïº•üÿÿÿÿ8İ¢Œªø1J$a65fd716-894f-442f-9a3d-a8290f097b08
+dpython:S125Ø"Remove this commented out code.(•‰¬Å8İ¢Œªø1J$26c16305-8f68-431f-985b-4bf70153e049

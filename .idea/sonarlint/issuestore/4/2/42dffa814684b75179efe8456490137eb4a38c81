@@ -1,0 +1,12 @@
+
+fpython:S5797Û"HReplace this expression; used as a condition it will always be constant.(ÔßÞ¶ûÿÿÿÿ
+Lpython:S1481'"/Remove the unused local variable "name_filter".(ƒÔ´Üøÿÿÿÿ
+6python:S125%"Remove this commented out code.(Žå½³
+<python:S125²"Remove this commented out code.(Æä¹ûûÿÿÿÿ
+<python:S125´"Remove this commented out code.(Ì­òŒøÿÿÿÿ
+<python:S125Ì"Remove this commented out code.(Üâ™õùÿÿÿÿ
+Mpython:S1481Ž"4Remove the unused local variable "generated_report".(œÒÖ¨
+7python:S125"Remove this commented out code.(ìó¼¹
+<python:S125¤"Remove this commented out code.(¼·Öáþÿÿÿÿ
+Wpython:S1481¢"9Replace the unused local variable "party_names" with "_".(µéøÿÿÿÿ
+mpython:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÁÀÑ“
