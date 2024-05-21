@@ -45,7 +45,6 @@ THIRD_PARTY_APPS = (
     'widget_tweaks', # add classes to tamplate fields
     'django_elasticsearch_dsl', # elasticsearch
     # 'django_elasticsearch_dsl_drf',
-    'whitenoise.runserver_nostatic', #Make sure to add this
 )
 
 # Apps specific for this project go here.
@@ -78,7 +77,6 @@ MIDDLEWARE = (
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     'allauth.account.middleware.AccountMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware', #make sure to add this line
 )
 
 # MIGRATIONS CONFIGURATION
@@ -137,7 +135,7 @@ DATABASES = {
         'NAME': 'jsnetwork',
         'USER': 'root',
         'PASSWORD': '@2024Jsn',
-        'HOST': '',   # Or an IP Address that your DB is hosted on
+        'HOST': 'localhost',   # Or an IP Address that your DB is hosted on
         'PORT': '3306',
         'OPTIONS': {
             'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",

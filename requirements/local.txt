@@ -19,3 +19,4 @@ pytest-sugar==0.7.1
 requests_aws4auth==0.9
 whitenoise==6.6.0 #must be in requirements.txt
 gunicorn==21.2.0 #must be in requirements.txt
+docxedit==1.0.1
