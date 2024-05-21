@@ -110,7 +110,7 @@ ADMINS = (
     ("""Kwan Skinner""", 'kskinner@gmail.com'),
 )
 
-ALLOWED_HOSTS = ['3.129.93.36']
+ALLOWED_HOSTS = ['*']
 
 # See: https://docs.djangoproject.com/en/dev/ref/settings/#managers
 MANAGERS = ADMINS
